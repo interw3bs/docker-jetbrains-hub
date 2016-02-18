@@ -1,6 +1,6 @@
 #! /bin/bash
 
-file=/opt/hub/conf/hub.jvmoptions
+file="/opt/hub/conf/hub.jvmoptions"
 
 if [ -f "$file" ]
 then
